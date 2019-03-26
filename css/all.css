@@ -328,13 +328,13 @@ h2.slogan{
 	padding: 0 0 0 20px;
 }
 .progress li span.unity{width: 100%;}
-.progress li span.robo{width: 80%;}
-.progress li span.sourcetree{width: 90%;}
-.progress li span.postman{width: 60%;}
-.progress li span.csharp{width: 90%;}
-.progress li span.mongodb{width: 80%;}
-.progress li span.node{width: 70%;}
-.progress li span.git{width: 75%;}
+.progress li span.robo{width: 100%;}
+.progress li span.sourcetree{width: 100%;}
+.progress li span.postman{width: 100%;}
+.progress li span.csharp{width: 100%;}
+.progress li span.mongodb{width: 100%;}
+.progress li span.node{width: 100%;}
+.progress li span.git{width: 100%;}
 .plagin_list{
 	width: 100%;
 	overflow: hidden;
